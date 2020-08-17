@@ -11,9 +11,14 @@ class Calculator
 	void add(i)
 	{
 		system.out.println("Done");
+
 		{
 	sc.close();
         sum = num1 + num2;
         System.out.println("Sum of these numbers: "+sum);
 	}
+
+	sc.close();
+        sum = num1 + num2;
+        System.out.println("Sum of these numbers: "+sum);
 	}

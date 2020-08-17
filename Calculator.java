@@ -7,8 +7,14 @@ class Calculator
 
       System.out.println("Sum of these numbers: "+sum);
    }
+
    {
 		system.out.println("Done");
 	}
 }
+   void add(i)
+	{
+		system.out.println("Done");
+	}
+
 }
